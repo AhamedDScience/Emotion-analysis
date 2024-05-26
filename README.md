@@ -33,10 +33,10 @@ Whether you're interested in sentiment analysis, emotion classification, or text
 
 + Imported necessary libraries including pandas, numpy, matplotlib, BeautifulSoup, regex, string, TextBlob, nltk, and emoji.
 + Preprocessed text data by:
-  _ Converting to lowercase
-  _ Removing HTML tags, URLs, punctuation, and chat words
-  _ Applying lemmatization
-  _ Removing stopwords and emojis
+ - Converting to lowercase
+ - Removing HTML tags, URLs, punctuation, and chat words
+ - Applying lemmatization
+ - Removing stopwords and emojis
 
 # Tokenization and Padding
 
