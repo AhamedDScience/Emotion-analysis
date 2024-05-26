@@ -57,4 +57,4 @@ Compiled the model using the Adam optimizer and sparse categorical crossentropy 
 + Evaluated model performance using validation data.
 
 
-
+Links to Download the [Model](https://fastupload.io/d9a07b748570952f) and [Data](https://fastupload.io/0b908c7a30f834a7)
